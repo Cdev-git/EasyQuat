@@ -63,3 +63,6 @@ EulerToQuat(float pitch, float yaw, float roll)
 Both also work as extension methods on Vector3.
 
 `Vec3ToQuat` won't flip when you look straight up or down, and a zero-length direction just returns identity.
+
+## Thanks for using EasyQuat
+# Made by Cdev with love =D
