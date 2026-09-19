@@ -1,4 +1,4 @@
-<img width="1200" height="706" alt="EasyQuant-for-Unity" src="https://github.com/user-attachments/assets/a0a79dac-0eab-4501-ba3f-566c4c481161" />
+<img width="1200" height="706" alt="EasyQuant-for-Unity (1)" src="https://github.com/user-attachments/assets/fc2b787b-d44f-45d5-81c2-ec1b5a2f65e8" />
 # EasyQuat
 ## Unity 5.0+
 
