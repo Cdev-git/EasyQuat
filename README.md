@@ -1,4 +1,4 @@
-:<img width="1200" height="706" alt="EasyQuant-for-Unity" src="https://github.com/user-attachments/assets/a0a79dac-0eab-4501-ba3f-566c4c481161" />
+<img width="1200" height="706" alt="EasyQuant-for-Unity" src="https://github.com/user-attachments/assets/a0a79dac-0eab-4501-ba3f-566c4c481161" />
 # EasyQuat
 ## Unity 5.0+
 
@@ -6,7 +6,7 @@ Two helpers for making Quaternions in Unity.
 
 ## Download
 
-Get either one
+Get either one:
 
 
 - [EasyQuat.unitypackage](EasyQuat.unitypackage) - import with Assets > Import Package > Custom Package. Or just drag it in. Goes in `Assets/EasyQuat/`.
